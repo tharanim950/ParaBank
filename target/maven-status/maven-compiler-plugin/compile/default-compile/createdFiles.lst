@@ -1,0 +1,8 @@
+base\BasePage.class
+pages\NavigationPage.class
+pages\RequestLoanPage.class
+pages\TransferFundPage.class
+pages\HomePage.class
+pages\RegisterPage.class
+models\Transaction.class
+pages\ContactUsPage.class

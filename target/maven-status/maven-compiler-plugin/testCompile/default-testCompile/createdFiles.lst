@@ -1,0 +1,14 @@
+tests\SampleTest.class
+tests\AccountsOverviewTest.class
+tests\TransferFundTest.class
+tests\HomeTest.class
+utils\DateUtils.class
+listeners\TestListener.class
+base\BaseTest.class
+tests\NavigationTest.class
+tests\RegisterTest.class
+reports\ExtentManager.class
+tests\ContactUsTest.class
+utils\ScreenshotUtil.class
+tests\RequestLoanTest.class
+tests\FindTransactionsTest.class

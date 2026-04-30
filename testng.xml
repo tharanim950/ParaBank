@@ -1,0 +1,20 @@
+<suite name="Suite">
+
+    <test name="Test">
+        <classes>
+           
+            <!--   <class name="tests.RequestLoanTest"/> -->
+            <!--   <class name="tests.FindTransactionsTest"/> -->
+              <!--       <class name="tests.RegisterTest"/> -->
+                <!--      <class name="tests.TransferFundTest"/> -->
+               <!--    <class name="tests.HomeTest"/> -->
+             <!--    <class name="tests.ContactUsTest"/>-->
+               
+               <class name="tests.NavigationTest"/>
+            
+        </classes>
+    </test>
+    <listeners>
+    <listener class-name="listeners.TestListener"/>
+</listeners>
+</suite>
